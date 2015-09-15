@@ -5,11 +5,23 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"Alignment",
+		"All Autocomplete",
+		"AutoFileName",
+		"BracketHighlighter",
+		"ColorPicker",
+		"CSScomb",
 		"Emmet",
+		"Git",
+		"GitGutter",
 		"JavaScript & NodeJS Snippets",
+		"LiveStyle",
+		"Markdown Preview",
 		"Package Control",
+		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SyncedSideBar",
-		"Theme - Spacegray"
+		"Theme - Spacegray",
+		"TrailingSpaces"
 	]
 }
