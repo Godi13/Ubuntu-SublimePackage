@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -9,15 +10,19 @@
 		"All Autocomplete",
 		"AutoFileName",
 		"BracketHighlighter",
-		"ColorPicker",
 		"CSScomb",
 		"Emmet",
 		"Git",
 		"GitGutter",
 		"JavaScript & NodeJS Snippets",
 		"LiveStyle",
-		"Markdown Preview",
+		"Markdown Extended",
+		"MarkdownEditing",
+		"MarkdownTOC",
+		"Monokai Extended",
+		"OmniMarkupPreviewer",
 		"Package Control",
+		"Sass",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SyncedSideBar",
