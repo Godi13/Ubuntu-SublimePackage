@@ -17,5 +17,5 @@ module.exports = ${1:Name};
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>comp</tabTrigger>
   <!-- Optional: Set a scope to limit where the snippet will trigger -->
-  <scope>source.js</scope>
+  <scope>text.html.markdown,source.js</scope>
 </snippet>
