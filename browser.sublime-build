@@ -1,3 +1,4 @@
 {
-  "cmd": ["/opt/google/chrome/google-chrome", "$file"]
+ //"cmd": ["/opt/google/chrome/google-chrome", "$file"]
+   "cmd": "/bin/rsync.sh"
 }
